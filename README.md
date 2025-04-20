@@ -83,7 +83,8 @@ Vote count and winner are shown on the LCD
 Votes are reset after each result check
 
 📷 Demo (Optional)
-Include a screenshot or GIF from Tinkercad, or a link to your simulation if available.
+![Circuit Diagram]()
+
 
 🧪 Future Improvements
 Add EEPROM memory to store vote data after reset
