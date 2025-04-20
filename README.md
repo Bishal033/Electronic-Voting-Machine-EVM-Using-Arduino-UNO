@@ -82,8 +82,9 @@ Vote count and winner are shown on the LCD
 
 Votes are reset after each result check
 
-📷 Demo (Optional)
-![Circuit Diagram](![Stunning Kasi-Juttuli (1)](https://github.com/user-attachments/assets/910de023-abed-4f97-a61a-8973d4f5c48e)
+📷 Demo
+![Circuit Diagram](https://github.com/Bishal033/Electronic-Voting-Machine-EVM-Using-Arduino-UNO/blob/main/Stunning%20Kasi-Juttuli.png)
+![](https://github.com/user-attachments/assets/910de023-abed-4f97-a61a-8973d4f5c48e)
 )
 
 
