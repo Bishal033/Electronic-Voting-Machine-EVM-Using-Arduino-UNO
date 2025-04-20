@@ -83,7 +83,8 @@ Vote count and winner are shown on the LCD
 Votes are reset after each result check
 
 📷 Demo (Optional)
-![Circuit Diagram]()
+![Circuit Diagram](![Stunning Kasi-Juttuli (1)](https://github.com/user-attachments/assets/910de023-abed-4f97-a61a-8973d4f5c48e)
+)
 
 
 🧪 Future Improvements
